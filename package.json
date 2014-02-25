@@ -1,0 +1,22 @@
+{
+  "name": "ngminDemo",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krazar/ngminDemo.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/krazar/ngminDemo/issues"
+  },
+  "homepage": "https://github.com/krazar/ngminDemo",
+  "devDependencies": {
+    "ngmin": "~0.4.1"
+  }
+}
